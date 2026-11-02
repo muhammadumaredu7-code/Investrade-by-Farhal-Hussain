@@ -1,0 +1,2189 @@
+{
+  "tickerData": [
+    { "id": "1", "symbol": "BTC/USD", "name": "Bitcoin", "price": "67,850.20", "change": "+2.45%", "isUp": true },
+    { "id": "2", "symbol": "ETH/USD", "name": "Ethereum", "price": "3,520.10", "change": "+1.82%", "isUp": true },
+    { "id": "3", "symbol": "NVDA", "name": "NVIDIA", "price": "135.40", "change": "-0.75%", "isUp": false },
+    { "id": "4", "symbol": "AAPL", "name": "Apple Inc", "price": "224.30", "change": "+0.65%", "isUp": true },
+    { "id": "5", "symbol": "TSLA", "name": "Tesla", "price": "254.10", "change": "-1.40%", "isUp": false },
+    { "id": "6", "symbol": "EUR/USD", "name": "Euro Forex", "price": "1.0865", "change": "+0.12%", "isUp": true },
+    { "id": "7", "symbol": "GOLD", "name": "Gold Spot", "price": "2,735.80", "change": "+0.95%", "isUp": true }
+  ],
+  "navigation": [
+    {
+      "name": "Services",
+      "type": "dropdown",
+      "items": [
+        { "title": "Account Opening", "desc": "Open an account for Forex, PMEX, or PSX and start trading with us.", "badge": "HOT", "href": "/account-opening" },
+        { "title": "VIP Groups", "desc": "Exclusive community for premium clients", "badge": "FEATURED", "href": "/vip-groups" },
+        { "title": "Account Management", "desc": "Personalized support for your trading needs", "badge": "EXCLUSIVE", "href": "/account-management" }
+      ]
+    },
+    { "name": "Products", "type": "link", "href": "/products" },
+    { "name": "Academy", "type": "link", "href": "/academy" },
+    { "name": "Market Data", "type": "link", "href": "/market-watch" },
+    {
+      "name": "Community",
+      "type": "dropdown",
+      "items": [
+        { "title": "Premium Performance", "desc": "Showcase of top-performing trades", "badge": "HOT", "href": "/community" },
+        { "title": "Our Blogs", "desc": "Insights and analysis from our experts", "badge": "FEATURED", "href": "/blogs" },
+        { "title": "Reviews", "desc": "Read what our clients are saying about us", "badge": "HOT", "href": "/reviews" },
+        { "title": " More", "desc": "Click here for more", "badge": "MORE" }
+      ]
+    }
+  ],
+  "headerData": {
+    "logoUrl": "",
+    "logoAlt": "Investrade Logo",
+    "fallbackBrandName": "Investrade"
+  },
+
+
+   
+  "heroData": {
+    "badge": "Next-Gen Financial Trading Ecosystem",
+    "logoUrl": "",
+    "mainTitleStatic": "Empowering Your Capital.",
+    "slogans": [
+      "Trade With Our Automated Bot",
+      "Instant Account Opening (FX / PMEX / PSX)",
+      "Exclusive VIP Signal Groups",
+      "Professional Account Management",
+      "Secure  Your Trading Journey",
+      "24/7 High-Frequency Algo Execution"
+    ],
+    "subtitle": "Access institutional liquidity, trade PMEX & Forex markets, connect with our high-winrate algorithmic bots, and scale your portfolio seamlessly.",
+    "ctaPrimary": {
+      "text": "Connect Trading Bot",
+      "href": "/dashboard/products"
+    },
+    "ctaSecondary": {
+      "text": "Open Account",
+      "href": "/account-opening"
+    },
+    "cta": {
+      "text": "Join Academy",
+      "href": "#"
+    },
+    
+    "highlights": [
+      {
+        "id": "1",
+        "title": "Instant Execution",
+        "sub": "Low Spreads & Fast Payouts",
+        "icon": "Zap",
+        "color": "amber"
+      },
+      {
+        "id": "2",
+        "title": "VIP Signal Groups",
+        "sub": "Daily Market Insights",
+        "icon": "Headphones",
+        "color": "sky"
+      },
+      {
+        "id": "3",
+        "title": "Account Management",
+        "sub": "Institutional Risk Control",
+        "icon": "BarChart3",
+        "color": "violet"
+      }
+    ]
+  },
+
+
+
+
+  
+  
+  "aboutSection": {
+    "badge": "Empowering Traders Worldwide",
+    "heading": "About to Investrade",
+    "subheading": "Dedicated to the world of financial markets!",
+    "paragraph1": "Welcome to Investrade! Dedicated to the world of financial markets! Our mission is to provide you with insightful and comprehensive information about the ever-evolving landscape of finance. Our goal is to empower you with the knowledge and skills you need to make informed decisions in the financial markets.",
+    "paragraph2": "We believe that education is the key to success in investing and trading, and we are committed to providing you with the best possible learning experience. Our sessions are available in various formats, including online webinars, live events, and one-on-one coaching.",
+    "features": [
+      "Online Webinars & Live Events",
+      "One-on-One Personalized Coaching",
+      "Forex, Crypto & Stocks Market Analysis",
+      "Risk Management & Portfolio Optimization"
+    ]
+  },
+  "aboutPage": {
+    "hero": {
+      "badge": "About Investrade E-Learning & Trading",
+      "logoUrl": "",
+      "title": "Empowering You To Excel In Global Financial Markets",
+      "description": "Welcome to Investrade! We are committed to providing you with insightful, transparent, and comprehensive education about the ever-evolving landscape of finance. Whether you are a beginner or a seasoned investor, we equip you with the exact strategies needed to navigate the markets confidently."
+    },
+    "stats": [
+      { "id": "1", "value": "$150M+", "label": "Trading Volume Evaluated", "sub": "Processed across global servers" },
+      { "id": "2", "value": "120K+", "label": "Students & Traders", "sub": "Trained across 85+ countries" },
+      { "id": "3", "value": "99.9%", "label": "Satisfaction Rate", "sub": "From live webinars & coaching" },
+      { "id": "4", "value": "24/7", "label": "Active Community", "sub": "Instant mentorship support" }
+    ],
+    "detailedStory": [
+      {
+        "title": "Our Core Mission",
+        "content": "Our mission is to provide you with insightful and comprehensive information about the ever-evolving landscape of finance. Our goal is to empower you with the knowledge and skills you need to make informed decisions in the financial markets. We believe that education is the key to success in investing and trading, and we are committed to providing you with the best possible learning experience."
+      },
+      {
+        "title": "Flexible Learning Formats",
+        "content": "Our sessions are available in various formats, including online webinars, live events, and one-on-one coaching. You can choose the format that works best for you and fits into your busy schedule. At our website, you will find a plethora of resources that cater to both novice and experienced investors. We cover all major financial markets, including stocks, currencies, and commodities."
+      },
+      {
+        "title": "Unbiased & Expert Analysis",
+        "content": "We value transparency, integrity, and trust. Our content is written by seasoned financial experts who are committed to providing objective analysis and unbiased opinions. We strive to present complex financial concepts in a way that is easy to understand and accessible to everyone."
+      }
+    ],
+    "values": [
+      {
+        "id": "1",
+        "title": "Transparency & Integrity",
+        "description": "No hidden gimmicks or false promises. We deliver raw, real-world trading knowledge with objective commentary.",
+        "icon": "ShieldCheck"
+      },
+      {
+        "id": "2",
+        "title": "Multi-Asset Coverage",
+        "description": "Master Stocks, Forex, Crypto, and Commodities through dedicated analysis and real-time market breakdowns.",
+        "icon": "Globe2"
+      },
+      {
+        "id": "3",
+        "title": "One-on-One Mentorship",
+        "description": "Get tailored guidance from professional traders who help you optimize your personal trading plan.",
+        "icon": "Users"
+      },
+      {
+        "id": "4",
+        "title": "Risk Management First",
+        "description": "Learn essential capital protection strategies, drawdown management, and portfolio diversification.",
+        "icon": "Target"
+      }
+    ],
+    "timeline": [
+      {
+        "year": "2021",
+        "title": "Founding Investrade",
+        "desc": "Started as a passionate community dedicated to financial literacy and forex market analysis."
+      },
+      {
+        "year": "2023",
+        "title": "Expansion to Live Coaching",
+        "desc": "Launched 1-on-1 mentorship programs, live webinars, and PSX & Forex signal channels."
+      },
+      {
+        "year": "2025",
+        "title": "Global Proprietary Platform",
+        "desc": "Integrated advanced trading tools, AI market insights, and funded capital evaluation programs."
+      }
+    ]
+  },
+
+
+   
+  
+  "reviewsData": {
+    "badge": "Client Feedback",
+    "totalCount": 10,
+    "heading": "Trusted By Traders Worldwide",
+    "subheading": "Dekhein humare verified traders aur clients Investrade ke bare me kya kehte hain.",
+    "testimonials": [
+      {
+        "id": "1",
+        "name": "Muhammad Ali",
+        "role": "Forex & Crypto Trader",
+        "location": "Lahore, Pakistan",
+        "image": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&q=80&w=300",
+        "rating": 5,
+        "review": "Investrade ki mentorship aur market analysis top-notch hai! Unki webinars se meri risk management bohot improve hui hai aur mera trading accuracy ab pehle se 80% better hai."
+      },
+      {
+        "id": "2",
+        "name": "Sarah Ahmed",
+        "role": "Equity Investor",
+        "location": "Karachi, Pakistan",
+        "image": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&q=80&w=300",
+        "rating": 5,
+        "review": "Pehle mujhe financial markets bohot complex lagte the. Investrade ke 1-on-1 coaching sessions ne mere saare doubts clear kar diye. Highly recommended for all traders!"
+      },
+      {
+        "id": "3",
+        "name": "Usman Khan",
+        "role": "Prop Funded Trader",
+        "location": "Islamabad, Pakistan",
+        "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&q=80&w=300",
+        "rating": 5,
+        "review": "Fast payouts, institutional grade liquidity, aur exact market updates. Investrade ke tools aur indicators se trading bohot smooth aur profitable ho gayi hai."
+      },
+      {
+        "id": "4",
+        "name": "Zainab Malik",
+        "role": "Commodities Analyst",
+        "location": "Dubai, UAE",
+        "image": "https://images.unsplash.com/photo-1580489944761-15a19d654956?auto=format&fit=crop&q=80&w=300",
+        "rating": 5,
+        "review": "The transparency and integrity of the team is amazing. Inki daily market breakdowns aur live community discussions se me hamesha market se ek step aage rehti hoon."
+      },
+      {
+        "id": "5",
+        "name": "Hamza Tariq",
+        "role": "Algorithmic Trader",
+        "location": "Faisalabad, Pakistan",
+        "image": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&q=80&w=300",
+        "rating": 5,
+        "review": "Investrade ke automated tools aur grid execution strategy ne meri passive trading ko bilkul next-level par pahuncha diya hai. Incredible accuracy!"
+      },
+      {
+        "id": "6",
+        "name": "Ayesha Raza",
+        "role": "PSX Market Enthusiast",
+        "location": "Rawalpindi, Pakistan",
+        "image": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&q=80&w=300",
+        "rating": 5,
+        "review": "PSX aur global market indicators ka combination lajawab hai. Learning material itna easy language me hai ki koi bhi naya trader seekh sakta hai."
+      },
+      {
+        "id": "7",
+        "name": "Bilal Sheikh",
+        "role": "Crypto Derivatives Trader",
+        "location": "Multan, Pakistan",
+        "image": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?auto=format&fit=crop&q=80&w=300",
+        "rating": 5,
+        "review": "Inka VIP community support superb hai. Signals aur technical webinars se maine apne account ko 3x grow kiya hai. Best platform!"
+      },
+      {
+        "id": "8",
+        "name": "Fatima Bilal",
+        "role": "Forex Scalper",
+        "location": "Sialkot, Pakistan",
+        "image": "https://images.unsplash.com/photo-1531746020798-e6953c6e8e04?auto=format&fit=crop&q=80&w=300",
+        "rating": 5,
+        "review": "Low latency aur clear entry/exit strategies key factors hain. Investrade ki risk management guidelines ne mera capital save kiya hai."
+      },
+      {
+        "id": "9",
+        "name": "Danish Siddiqui",
+        "role": "Full-Time Day Trader",
+        "location": "Peshawar, Pakistan",
+        "image": "https://images.unsplash.com/photo-1522075469751-3a6694fb2f61?auto=format&fit=crop&q=80&w=300",
+        "rating": 5,
+        "review": "Investrade me customer support 24/7 hamesha active rehti hai. Real-time updates aur daily charts bohot helpful hote hain."
+      },
+      {
+        "id": "10",
+        "name": "Omer Farooq",
+        "role": "Portfolio Manager",
+        "location": "Quetta, Pakistan",
+        "image": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?auto=format&fit=crop&q=80&w=300",
+        "rating": 5,
+        "review": "A-Book execution, unbiased commentary, aur transparency hi inki sabse badi strength hai. Professional traders ke liye best hub hai."
+      }
+    ]
+  },
+
+
+
+
+
+   
+  "blogs": [
+    {
+      "id": "1",
+      "slug": "mastering-forex-risk-management",
+      "title": "Mastering Forex Risk Management: Strategies for 2026",
+      "category": "Forex Trading",
+      "badge": "MUST READ",
+      "publishDate": "Oct 18, 2026",
+      "readTime": "5 min read",
+      "author": {
+        "name": "Hamza Malik",
+        "role": "Chief Risk Strategist",
+        "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&q=80&w=200"
+      },
+      "mediaType": "image",
+      "mediaUrl": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&q=80&w=1200",
+      "shortDesc": "Discover institutional-grade risk parameters, drawdown calculation formulas, and position-sizing tactics to safeguard capital.",
+      "content": "Risk management is the single most critical factor separating professional traders from retail gamblers. In volatility-rich markets like Forex, protecting capital comes before making profit.\n\nKey Principles Covered:\n1. The 1% Rule: Never risk more than 1% of equity on a single trade.\n2. Dynamic Drawdown Tracking: Monitoring equity curve swings before entering new positions.\n3. Institutional Hedging: Balancing currency correlations to eliminate systemic market shocks.",
+      "likesCount": 342,
+      "comments": [
+        {
+          "id": "c1",
+          "userName": "Usman Khan",
+          "userAvatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&q=80&w=100",
+          "date": "2 hours ago",
+          "comment": "Outstanding breakdown! The dynamic drawdown strategy completely changed my approach to funded challenges."
+        },
+        {
+          "id": "c2",
+          "userName": "Sarah Ahmed",
+          "userAvatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&q=80&w=100",
+          "date": "1 day ago",
+          "comment": "Very practical article. Looking forward to the next webinar on position sizing!"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "slug": "bitcoin-halving-supply-shock-analysis",
+      "title": "Bitcoin Supply Shock & Macro Economics Analysis",
+      "category": "Crypto",
+      "badge": "HOT TOPIC",
+      "publishDate": "Oct 15, 2026",
+      "readTime": "7 min read",
+      "author": {
+        "name": "Zainab Malik",
+        "role": "Crypto Asset Lead",
+        "avatar": "https://images.unsplash.com/photo-1580489944761-15a19d654956?auto=format&fit=crop&q=80&w=200"
+      },
+      "mediaType": "video",
+      "mediaUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+      "shortDesc": "An in-depth breakdown of global liquidity flows, exchange reserves, and on-chain metrics driving the crypto market.",
+      "content": "Bitcoin's macro cycle is undergoing a dramatic structural transformation. On-chain metrics reveal historic lows in exchange balance reserves.\n\nInstitutional capital inflows through spot ETFs continue to absorb daily miner emissions, creating an unprecedented supply crunch.",
+      "likesCount": 512,
+      "comments": [
+        {
+          "id": "c3",
+          "userName": "Bilal Sheikh",
+          "userAvatar": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?auto=format&fit=crop&q=80&w=100",
+          "date": "Yesterday",
+          "comment": "The on-chain charts provided in this post give a super clear picture of institutional accumulation."
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "slug": "quantum-ai-algorithmic-trading",
+      "title": "How Quantum AI Engines Outperform Grid Trading",
+      "category": "Algorithmic AI",
+      "badge": "TECH",
+      "publishDate": "Oct 12, 2026",
+      "readTime": "6 min read",
+      "author": {
+        "name": "David Chen",
+        "role": "Chief Tech Officer",
+        "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&q=80&w=200"
+      },
+      "mediaType": "image",
+      "mediaUrl": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&q=80&w=1200",
+      "shortDesc": "High-frequency grid execution meets Machine Learning. Learn how Investrade Quantum AI eliminates emotional bias.",
+      "content": "Automated execution engines process market depth in sub-milliseconds. By combining real-time sentiment analysis with dynamic order routing, traders achieve raw spread advantage.",
+      "likesCount": 289,
+      "comments": []
+    },
+    {
+      "id": "4",
+      "slug": "understanding-stock-market-valuation",
+      "title": "Understanding Stock Market Valuation Multiples",
+      "category": "Equities",
+      "badge": "FINANCE",
+      "publishDate": "Oct 10, 2026",
+      "readTime": "4 min read",
+      "author": {
+        "name": "Sarah Jenkins",
+        "role": "Equities Strategist",
+        "avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&q=80&w=200"
+      },
+      "mediaType": "image",
+      "mediaUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&q=80&w=1200",
+      "shortDesc": "PE ratios, EV/EBITDA, and discounted cash flow models explained for long-term equity investors.",
+      "content": "Valuing growth stocks vs dividend-paying stalwarts requires different frameworks. Here is a breakdown of quantitative valuation techniques.",
+      "likesCount": 198,
+      "comments": []
+    },
+    {
+      "id": "5",
+      "slug": "gold-spot-trading-and-inflation-hedging",
+      "title": "Gold Spot Trading & Global Inflation Hedging",
+      "category": "Commodities",
+      "badge": "ANALYSIS",
+      "publishDate": "Oct 08, 2026",
+      "readTime": "5 min read",
+      "author": {
+        "name": "Hamza Malik",
+        "role": "Chief Risk Strategist",
+        "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&q=80&w=200"
+      },
+      "mediaType": "image",
+      "mediaUrl": "https://images.unsplash.com/photo-1610375461246-83df859d849d?auto=format&fit=crop&q=80&w=1200",
+      "shortDesc": "Why central bank gold reserves are rising and how spot traders can capitalize on precious metal trends.",
+      "content": "Precious metals remain the supreme store of value during geopolitical turbulence and central bank monetary easing.",
+      "likesCount": 410,
+      "comments": []
+    },
+    {
+      "id": "6",
+      "slug": "psychology-of-successful-day-traders",
+      "title": "The Psychology of Successful Day Traders",
+      "category": "Psychology",
+      "badge": "POPULAR",
+      "publishDate": "Oct 05, 2026",
+      "readTime": "8 min read",
+      "author": {
+        "name": "Zainab Malik",
+        "role": "Head of Trader Performance",
+        "avatar": "https://images.unsplash.com/photo-1580489944761-15a19d654956?auto=format&fit=crop&q=80&w=200"
+      },
+      "mediaType": "image",
+      "mediaUrl": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?auto=format&fit=crop&q=80&w=1200",
+      "shortDesc": "Overcoming FOMO, revenge trading, and emotional burnout through structured trading routines.",
+      "content": "Your mindset determines your outcome. Disciplined execution beats high win-rate strategies with poor psychological control every time.",
+      "likesCount": 630,
+      "comments": []
+    },
+    {
+      "id": "7",
+      "slug": "smart-money-concepts-order-blocks",
+      "title": "Smart Money Concepts: Liquidity & Order Blocks",
+      "category": "Forex Trading",
+      "badge": "PRO",
+      "publishDate": "Oct 02, 2026",
+      "readTime": "9 min read",
+      "author": {
+        "name": "Hamza Malik",
+        "role": "Chief Risk Strategist",
+        "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&q=80&w=200"
+      },
+      "mediaType": "image",
+      "mediaUrl": "https://images.unsplash.com/photo-1642543492481-44e81e3914a7?auto=format&fit=crop&q=80&w=1200",
+      "shortDesc": "Identify institutional footprints, fair value gaps, and high-probability order block entries.",
+      "content": "Learn to trade alongside central banks and hedge funds by identifying liquidity grabs and imbalance zones.",
+      "likesCount": 780,
+      "comments": []
+    },
+    {
+      "id": "8",
+      "slug": "ethereum-layer-2-scaling-solutions",
+      "title": "Ethereum Layer-2 Scaling & DeFi Yield Vaults",
+      "category": "Crypto",
+      "badge": "DEFI",
+      "publishDate": "Sep 28, 2026",
+      "readTime": "5 min read",
+      "author": {
+        "name": "Zainab Malik",
+        "role": "Crypto Asset Lead",
+        "avatar": "https://images.unsplash.com/photo-1580489944761-15a19d654956?auto=format&fit=crop&q=80&w=200"
+      },
+      "mediaType": "image",
+      "mediaUrl": "https://images.unsplash.com/photo-1622979135225-d2ba269bc1bd?auto=format&fit=crop&q=80&w=1200",
+      "shortDesc": "How zero-knowledge rollups and decentralized liquidity pools are reducing gas fees and driving APY.",
+      "content": "DeFi 3.0 protocol architectures enable automated liquidity rebalancing across multi-chain ecosystems.",
+      "likesCount": 240,
+      "comments": []
+    },
+    {
+      "id": "9",
+      "slug": "navigating-central-bank-interest-rates",
+      "title": "Navigating Central Bank Interest Rate Decisions",
+      "category": "Macroeconomics",
+      "badge": "GLOBAL",
+      "publishDate": "Sep 25, 2026",
+      "readTime": "6 min read",
+      "author": {
+        "name": "Sarah Jenkins",
+        "role": "Equities Strategist",
+        "avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&q=80&w=200"
+      },
+      "mediaType": "image",
+      "mediaUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?auto=format&fit=crop&q=80&w=1200",
+      "shortDesc": "Understanding how FOMC, ECB, and BOE rate hikes impact currency crosses and bond yields.",
+      "content": "Federal Reserve monetary policy releases trigger major market volatility. Here is how to navigate interest rate announcements safely.",
+      "likesCount": 310,
+      "comments": []
+    },
+    {
+      "id": "10",
+      "slug": "building-a-sustainable-prop-trading-journal",
+      "title": "Building a Sustainable Prop Trading Journal",
+      "category": "Education",
+      "badge": "GUIDE",
+      "publishDate": "Sep 20, 2026",
+      "readTime": "4 min read",
+      "author": {
+        "name": "David Chen",
+        "role": "Chief Tech Officer",
+        "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&q=80&w=200"
+      },
+      "mediaType": "image",
+      "mediaUrl": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?auto=format&fit=crop&q=80&w=1200",
+      "shortDesc": "Track key performance metrics: Profit Factor, Sharpe Ratio, Expectancy, and Average R-Multiple.",
+      "content": "What gets measured gets managed. Maintaining a detailed digital trading log is essential for prop-firm scaling.",
+      "likesCount": 420,
+      "comments": []
+    },
+    {
+      "id": "11",
+      "slug": "crude-oil-and-energy-sector-breakdown",
+      "title": "Crude Oil & Energy Sector Fundamentals",
+      "category": "Commodities",
+      "badge": "ENERGY",
+      "publishDate": "Sep 15, 2026",
+      "readTime": "5 min read",
+      "author": {
+        "name": "Hamza Malik",
+        "role": "Chief Risk Strategist",
+        "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&q=80&w=200"
+      },
+      "mediaType": "image",
+      "mediaUrl": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&q=80&w=1200",
+      "shortDesc": "OPEC+ production quotas, US inventory data, and global energy demand forecasting.",
+      "content": "Energy market dynamics are tied to geopolitical events and industrial output indicators globally.",
+      "likesCount": 275,
+      "comments": []
+    },
+    {
+      "id": "12",
+      "slug": "top-5-indicators-for-scalping-forex",
+      "title": "Top 5 Technical Indicators for Forex Scalping",
+      "category": "Forex Trading",
+      "badge": "INDICATORS",
+      "publishDate": "Sep 10, 2026",
+      "readTime": "6 min read",
+      "author": {
+        "name": "Sarah Jenkins",
+        "role": "Equities Strategist",
+        "avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&q=80&w=200"
+      },
+      "mediaType": "image",
+      "mediaUrl": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&q=80&w=1200",
+      "shortDesc": "Combining EMA crossovers, VWAP, Stochastic RSI, and Volume Delta for short-term trades.",
+      "content": "Scalping requires quick execution and minimal noise. Here are the top 5 technical tools for 1-minute and 5-minute charts.",
+      "likesCount": 590,
+      "comments": []
+    }
+  ],
+
+
+
+
+   
+  "teamPage": {
+    "badge": "Institutional Visionaries",
+    "heading": "Meet The Masterminds Behind Investrade",
+    "subheading": "Ex-wall street traders, FinTech architects, and risk management specialists driving global market execution.",
+    "stats": [
+      { "id": "1", "value": "15+", "label": "Years Combined Experience" },
+      { "id": "2", "value": "40+", "label": "Quantitative Specialists" },
+      { "id": "3", "value": "24/7", "label": "Global Market Desk" }
+    ],
+    "members": [
+      {
+        "id": "1",
+        "name": "Hamza Malik",
+        "role": "Founder & Chief Executive Officer",
+        "category": "Executive",
+        "experience": "14+ Years FX & Derivatives",
+        "bio": "Ex-institutional quantitative trader with vast experience in foreign exchange liquidity and macro-hedging strategies.",
+        "image": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&q=80&w=400",
+        "socials": { "linkedin": "#", "twitter": "#", "email": "hamza@investrade.pk" }
+      },
+      {
+        "id": "2",
+        "name": "Sarah Jenkins",
+        "role": "Head of Risk Management",
+        "category": "Risk Management",
+        "experience": "10+ Years Portfolio Protection",
+        "bio": "Specialist in algorithmic hedging systems, drawdown control protocols, and capital allocation frameworks.",
+        "image": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&q=80&w=400",
+        "socials": { "linkedin": "#", "twitter": "#", "email": "sarah@investrade.pk" }
+      },
+      {
+        "id": "3",
+        "name": "David Chen",
+        "role": "Chief Technology Officer",
+        "category": "Technology",
+        "experience": "12+ Years High-Frequency Systems",
+        "bio": "Former senior FinTech architect specializing in sub-millisecond order matching engines and FIX protocol feeds.",
+        "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&q=80&w=400",
+        "socials": { "linkedin": "#", "twitter": "#", "email": "david@investrade.pk" }
+      },
+      {
+        "id": "4",
+        "name": "Zainab Malik",
+        "role": "Head of Crypto Derivatives",
+        "category": "Analysis",
+        "experience": "8+ Years Digital Assets",
+        "bio": "On-chain data analyst and crypto futures strategist managing institutional vault yield architecture.",
+        "image": "https://images.unsplash.com/photo-1580489944761-15a19d654956?auto=format&fit=crop&q=80&w=400",
+        "socials": { "linkedin": "#", "twitter": "#", "email": "zainab@investrade.pk" }
+      },
+      {
+        "id": "5",
+        "name": "Danish Siddiqui",
+        "role": "Senior Macro Market Analyst",
+        "category": "Analysis",
+        "experience": "9+ Years Global Equities",
+        "bio": "Delivers daily fundamental and technical breakdowns across PSX, S&P 500, and commodities.",
+        "image": "https://images.unsplash.com/photo-1522075469751-3a6694fb2f61?auto=format&fit=crop&q=80&w=400",
+        "socials": { "linkedin": "#", "twitter": "#", "email": "danish@investrade.pk" }
+      },
+      {
+        "id": "6",
+        "name": "Ayesha Raza",
+        "role": "Lead Educational Mentor",
+        "category": "Education",
+        "experience": "7+ Years Mentorship",
+        "bio": "Conducts 1-on-1 coaching, webinars, and masterclasses to train aspiring traders globally.",
+        "image": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&q=80&w=400",
+        "socials": { "linkedin": "#", "twitter": "#", "email": "ayesha@investrade.pk" }
+      }
+    ]
+  },
+
+
+
+
+
+
+
+  
+  "contactPage": {
+    "badge": "24/7 Global Desk",
+    "heading": "Get In Touch With Investrade Support",
+    "subheading": "Have questions about trading accounts, funded evaluations, or institutional APIs? Our expert team is ready to help.",
+    "supportStats": [
+      { "id": "1", "label": "Average Response Time", "value": "< 15 Mins" },
+      { "id": "2", "label": "Customer Satisfaction", "value": "99.8%" },
+      { "id": "3", "label": "Global Support Languages", "value": "12+ Languages" }
+    ],
+    "contactInfo": [
+      {
+        "id": "1",
+        "title": "Email Support",
+        "desc": "Get a prompt response to your questions and inquiries.",
+        "value": "Info@Investrade.Pk",
+        "icon": "Mail"
+      },
+      {
+        "id": "2",
+        "title": "Direct Helpline",
+        "desc": "Available Monday through Friday, 24 hours a day.",
+        "value": "+92 (300) 123-4567",
+        "icon": "Phone"
+      },
+      {
+        "id": "3",
+        "title": "Global Headquarters",
+        "desc": "Investrade Financial Tower, Level 18.",
+        "value": "Karachi & Dubai Financial Centers",
+        "icon": "MapPin"
+      }
+    ],
+    "faqs": [
+      {
+        "q": "How do I get started with the EZE Challenge?",
+        "a": "Click the 'Start Trading' button, choose your account size, and receive your credentials within minutes."
+      },
+      {
+        "q": "How quickly are profit withdrawals processed?",
+        "a": "Payout requests are typically processed within 12 to 30 minutes via cryptocurrency or bank transfer."
+      },
+      {
+        "q": "Are there any restrictions on weekend trading?",
+        "a": "There are no weekend restrictions for crypto and selected forex pairs. You can keep eligible positions open over the weekend."
+      }
+    ]
+  },
+
+
+
+
+   
+  "vipGroupsPage": {
+    "badge": "Exclusive Trader Community",
+    "heading": "Investrade VIP Signal & Analysis Groups",
+    "subheading": "Gain institutional market edge with real-time trading calls, risk-managed setups, and direct analyst access.",
+    "markets": [
+      {
+        "id": "psx",
+        "name": "Pakistan Stock Exchange (PSX)",
+        "badge": "SECP Compliant Stocks",
+        "description": "Comprehensive daily coverage of KSE-100 index, equity scripts, swing picks, and institutional accumulation tracking.",
+        "features": [
+          "Provide Scripts with Buying range, Targets & Stop-loss for Day & Swing trading",
+          "Weekly and Daily Market Technical View & Volume Analysis",
+          "High-Probability Stocks selection for Long-term Investment",
+          "Timely Entry & Exit Alerts directly on Telegram / WhatsApp",
+          "Personalized Portfolio Guidance & Sector Rotation",
+          "Short-Selling & Hedging Strategies for Bear Markets"
+        ],
+        "pricing": [
+          { "duration": "One Month", "pricePKR": "6,000 PKR", "priceUSD": "$22", "discount": "" },
+          { "duration": "3 Months", "pricePKR": "14,000 PKR", "priceUSD": "$50", "discount": "Save 22%" },
+          { "duration": "6 Months", "pricePKR": "25,000 PKR", "priceUSD": "$90", "discount": "Save 30%" },
+          { "duration": "1 Year", "pricePKR": "43,000 PKR", "priceUSD": "$155", "discount": "Best Value - Save 40%", "isPopular": true }
+        ]
+      },
+      {
+        "id": "forex",
+        "name": "Investrade Forex VIP Community",
+        "badge": "Global Multi-Asset FX",
+        "description": "High-frequency Smart Money Concepts (SMC) & Order Block trading setups for EURUSD, GBPUSD, Gold (XAUUSD), and Crypto.",
+        "features": [
+          "85%+ Win-rate Institutional FX & Gold (XAUUSD) Signals",
+          "Precise Entry, Multi-TP Targets, and Dynamic Stop-Loss Levels",
+          "Daily Live Trading Sessions & New York / London Session Breakdowns",
+          "Risk-to-Reward Ratio (1:3 to 1:5 Minimum setups)",
+          "Prop Firm Challenge Passing Guidance & Risk Calculators",
+          "24/7 Direct Access to Lead Foreign Exchange Strategists"
+        ],
+        "pricing": [
+          { "duration": "One Month", "pricePKR": "6,000 PKR", "priceUSD": "$22", "discount": "" },
+          { "duration": "3 Months", "pricePKR": "14,000 PKR", "priceUSD": "$50", "discount": "Save 22%" },
+          { "duration": "6 Months", "pricePKR": "25,000 PKR", "priceUSD": "$90", "discount": "Save 30%" },
+          { "duration": "1 Year", "pricePKR": "43,000 PKR", "priceUSD": "$155", "discount": "Best Value - Save 40%", "isPopular": true }
+        ]
+      },
+      {
+        "id": "pmex",
+        "name": "Pakistan Mercantile Exchange (PMEX)",
+        "badge": "Commodities & Futures",
+        "description": "Specialized futures research for Gold (1 Tola/Ounce), Silver, Crude Oil, and Global Equity Indices traded on PMEX.",
+        "features": [
+          "Real-time Futures Signals for Gold, Silver, Crude Oil, and Nasdaq",
+          "PMEX Lot Size Position Sizing & Margin Management",
+          "Daily Commodity Volatility Breakdowns & Economic News Tracking",
+          "High-Probability Day Trading & Intra-week Swing Setups",
+          "Hedging Tactics for Physical Gold & Dollar Exposure",
+          "Direct Clearing House & Broker Trade Execution Insights"
+        ],
+        "pricing": [
+          { "duration": "One Month", "pricePKR": "6,000 PKR", "priceUSD": "$22", "discount": "" },
+          { "duration": "3 Months", "pricePKR": "14,000 PKR", "priceUSD": "$50", "discount": "Save 22%" },
+          { "duration": "6 Months", "pricePKR": "25,000 PKR", "priceUSD": "$90", "discount": "Save 30%" },
+          { "duration": "1 Year", "pricePKR": "43,000 PKR", "priceUSD": "$155", "discount": "Best Value - Save 40%", "isPopular": true }
+        ]
+      }
+    ]
+  },
+
+
+
+   
+  "accountManagementPage": {
+    "badge": "Institutional Portfolio Services",
+    "heading": "Professional Account Management",
+    "subheading": "Let our certified risk strategists and quantitative traders manage your equity using strict drawdown limits, profit-sharing models, and institutional A-Book execution.",
+    "markets": [
+      {
+        "id": "forex",
+        "shortName": "FOREX",
+        "name": "Forex & Crypto Managed Accounts",
+        "badge": "A-Book Execution",
+        "description": "Multi-asset Forex and Gold (XAUUSD) portfolio management with automated drawdown stops and daily equity monitoring.",
+        "profitSharing": "70% Client / 30% Investrade",
+        "minEquity": "$5,000 USD / Funded Account",
+        "targetReturn": "8% - 15% Monthly",
+        "terms": [
+          "1. Maximum Drawdown Limit: Account trading is halted automatically if equity drawdown reaches 10% of initial balance.",
+          "2. Profit Share Settlement: Profit splits are evaluated bi-weekly or monthly based on High-Water Mark principles.",
+          "3. No Direct Withdrawal Rights: Investrade management desk has trade execution rights ONLY. Fund withdrawals remain 100% under client control.",
+          "4. Broker Compatibility: Accounts must be registered under verified A-Book liquidity brokers (e.g. Exness) or approved Prop Firm accounts.",
+          "5. Risk Acknowledgment: Leveraged foreign exchange trading carries inherent market risks. Past algorithmic performance does not guarantee future results."
+        ]
+      },
+      {
+        "id": "psx",
+        "shortName": "PSX",
+        "name": "PSX Equity Portfolio Management",
+        "badge": "SECP Compliant Framework",
+        "description": "Customized stock portfolio management on the Pakistan Stock Exchange focused on KSE-100 blue-chip, dividend-yield, and growth scripts.",
+        "profitSharing": "75% Client / 25% Investrade",
+        "minEquity": "PKR 1,000,000 (10 Lakhs)",
+        "targetReturn": "25% - 40% Annualized",
+        "terms": [
+          "1. Account Ownership: CDC Sub-Account and Broker trading account must remain under the client's registered CNIC and IBAN.",
+          "2. Power of Attorney / Limited Mandate: Client grants limited trading authorization exclusively for buying and selling SECP listed securities.",
+          "3. Quarterly Portfolio Audits: Comprehensive balance sheets and trading execution logs are provided every 90 days.",
+          "4. Dividend & Bonus Entitlement: All cash dividends, bonus shares, and rights issues belong directly to the client's CDC account.",
+          "5. Lock-in Period: A minimum 3-month portfolio commitment is required to achieve strategic sector-rotation returns."
+        ]
+      }
+    ],
+    "pageCopy": {
+      "brandPrefix": "Investrade",
+      "marketManagementSuffix": "MANAGEMENT",
+      "stepOneLabel": "Step 1 of 2: Review Rules & Terms",
+      "termsHeadingSuffix": "Terms",
+      "profitSplitLabel": "Profit Split",
+      "minimumEquityLabel": "Minimum Equity Required",
+      "targetReturnLabel": "Target Monthly Return",
+      "clausesHeading": "Mandatory Management Clauses & Mandate:",
+      "termsConsent": "I have read, understood, and accept all terms and risk disclosures for",
+      "acceptTermsButton": "Accept Terms & Proceed to Form",
+      "stepTwoLabel": "Step 2 of 2: Download, Sign & Upload Agreement",
+      "agreementHeading": "Print & Upload Signed Agreement",
+      "agreementInstructions": "Download the agreement form, print it out, sign on plain paper, and re-upload the scanned document.",
+      "downloadSectionHeading": "Download Agreement Form",
+      "downloadInstructions": "Print & Fill this form with your account credentials and manual signature.",
+      "downloadButton": "Download Agreement PDF",
+      "agreementPdfUnavailable": "The agreement PDF is currently unavailable. Please contact our team.",
+      "fullNameLabel": "Full Name *",
+      "fullNamePlaceholder": "e.g. Muhammad Ali",
+      "emailLabel": "Email Address *",
+      "emailPlaceholder": "client@example.com",
+      "phoneLabel": "WhatsApp / Phone *",
+      "phonePlaceholder": "+92 300 1234567",
+      "accountNumberLabel": "Broker Account ID / CDC Sub-Account *",
+      "accountNumberPlaceholder": "e.g. Exness ID / PSX Account No",
+      "uploadLabel": "Upload Signed & Scanned Form (Scan Quality Required) *",
+      "uploadButton": "Click to Upload Signed Agreement Form",
+      "uploadRequirements": "Supports JPG, PNG, PDF (Max 15MB)",
+      "backButton": "Back",
+      "uploadingButton": "Verifying & Uploading Document...",
+      "submitButton": "Submit Signed Agreement",
+      "submissionBadge": "Submission Verified",
+      "successHeading": "Form Uploaded Successfully!",
+      "successSubheading": "Our Senior Portfolio Management Team Will Contact You Shortly.",
+      "successDescription": "Your signed management agreement and account details have been routed to our risk desk. An assigned account manager will verify your credentials and initiate execution protocols within 24 hours.",
+      "priorityHelplineLabel": "Priority Helpline",
+      "priorityHelplineNumber": "+92 (300) 123-4567",
+      "submitAnotherButton": "Submit Another Account"
+    }
+  },
+
+
+
+
+
+
+
+
+
+
+  
+  "accountOpeningPage": {
+    "badge": "Institutional Market Access",
+    "heading": "Open Your Trading Account",
+    "subheading": "Select your preferred financial market to review account opening requirements and start trading with Investrade.",
+    "referralLinks": {
+      "exnessIb": "https://one.exness-track.com/a/c_investrade",
+      "pmexPortal": "https://portal.pmex.com.pk/",
+      "psxEAccount": "https://e-services.cdcaccess.com.pk/e-account/"
+    },
+    "psxRegistration": {
+      "documentUploadGuidelines": "ALL ATTACHED IMAGES MUST BE IN PROPER SCAN QUALITY, WELL-LIT, FULLY READABLE, AND NOT BLURRY. INCOMPLETE OR UNREADABLE DOCUMENTS WILL BE REJECTED BY CDC/SECP VERIFICATION DESK. IF YOU HAVE ANY ISSUE, PLEASE CONTACT OUR TEAM.",
+      "applicantSectionHeading": "Applicant Basic Information",
+      "nomineeSectionHeading": "Nominee Information",
+      "documentSectionHeading": "Required Scanned Documents Upload",
+      "formFields": [
+        { "id": "fullName", "key": "fullName", "section": "applicant", "label": "Applicant Full Name (As per CNIC)", "type": "text", "placeholder": "e.g. Muhammad Ali", "required": true, "visibleFor": ["sahulat", "normal"] },
+        { "id": "cnic", "key": "cnic", "section": "applicant", "label": "CNIC Number", "type": "text", "placeholder": "42101-XXXXXXX-X", "required": true, "visibleFor": ["sahulat", "normal"] },
+        { "id": "mobileNumber", "key": "mobileNumber", "section": "applicant", "label": "Mobile Number (Registered on Client CNIC)", "type": "tel", "placeholder": "03001234567", "required": true, "visibleFor": ["sahulat", "normal"] },
+        { "id": "email", "key": "email", "section": "applicant", "label": "Email Address", "type": "email", "placeholder": "client@example.com", "required": true, "visibleFor": ["sahulat", "normal"] },
+        { "id": "ibanNumber", "key": "ibanNumber", "section": "applicant", "label": "Bank IBAN Number", "type": "text", "placeholder": "PK36 MEZN 0000 0001 0203 0405", "required": true, "visibleFor": ["sahulat", "normal"] },
+        { "id": "occupation", "key": "occupation", "section": "applicant", "label": "Occupation", "type": "select", "placeholder": "Select your occupation", "required": true, "visibleFor": ["normal"], "options": ["Employee / Salaried", "Business / Owner"] },
+        { "id": "nomineeName", "key": "nomineeName", "section": "nominee", "label": "Nominee Full Name", "type": "text", "placeholder": "Enter nominee's full name", "required": true, "visibleFor": ["sahulat", "normal"] },
+        { "id": "nomineeCnic", "key": "nomineeCnic", "section": "nominee", "label": "Nominee CNIC", "type": "text", "placeholder": "42101-XXXXXXX-X", "required": true, "visibleFor": ["sahulat", "normal"] },
+        { "id": "nomineeDateOfBirth", "key": "nomineeDateOfBirth", "section": "nominee", "label": "Nominee Date of Birth", "type": "date", "placeholder": "", "required": true, "visibleFor": ["sahulat", "normal"] },
+        { "id": "nomineePhone", "key": "nomineePhone", "section": "nominee", "label": "Nominee Phone Number", "type": "tel", "placeholder": "03001234567", "required": true, "visibleFor": ["sahulat", "normal"] },
+        { "id": "nomineeEmail", "key": "nomineeEmail", "section": "nominee", "label": "Nominee Email Address", "type": "email", "placeholder": "nominee@example.com", "required": true, "visibleFor": ["sahulat", "normal"] }
+      ],
+      "documentUploads": [
+        { "id": "applicantNicFront", "key": "applicantNicFront", "label": "Applicant CNIC (Front Side)", "required": true, "visibleFor": ["sahulat", "normal"] },
+        { "id": "applicantNicBack", "key": "applicantNicBack", "label": "Applicant CNIC (Back Side)", "required": true, "visibleFor": ["sahulat", "normal"] },
+        { "id": "nomineeNicFront", "key": "nomineeNicFront", "label": "Nominee CNIC (Front Side)", "required": true, "visibleFor": ["sahulat", "normal"] },
+        { "id": "nomineeNicBack", "key": "nomineeNicBack", "label": "Nominee CNIC (Back Side)", "required": true, "visibleFor": ["sahulat", "normal"] },
+        { "id": "ibanChequeProof", "key": "ibanChequeProof", "label": "IBAN Cheque Copy / Maintenance Certificate", "required": true, "visibleFor": ["sahulat", "normal"] },
+        { "id": "signatureProof", "key": "signatureProof", "label": "Signature Proof (Blank & Plane Paper)", "required": true, "visibleFor": ["sahulat", "normal"] },
+        { "id": "incomeProof", "key": "incomeProof", "label": "Income / Pocket Money Proof Image", "required": true, "visibleFor": ["sahulat"] },
+        { "id": "bankStatement", "key": "bankStatement", "label": "Current 6 Months Bank Statement", "required": true, "visibleFor": ["normal"] },
+        { "id": "fbr114Statement", "key": "fbr114Statement", "label": "FBR Form 114 Tax Return Statement", "required": false, "requiredForOccupation": "Business / Owner", "visibleFor": ["normal"] },
+        { "id": "depositSlip", "key": "depositSlip", "label": "Initial Deposit Slip (PKR 5,000 For Activation)", "required": true, "visibleFor": ["sahulat", "normal"] }
+      ]
+    },
+    "requestFields": [
+      { "id": "fullName", "key": "fullName", "label": "Full name", "type": "text", "placeholder": "Enter your full name", "required": true, "autocomplete": "name" },
+      { "id": "email", "key": "email", "label": "Email address", "type": "email", "placeholder": "you@example.com", "required": true, "autocomplete": "email" },
+      { "id": "phone", "key": "phone", "label": "Phone number", "type": "tel", "placeholder": "Enter your phone number", "required": true, "autocomplete": "tel" },
+      { "id": "message", "key": "message", "label": "How can we help?", "type": "textarea", "placeholder": "Tell us what you need help with", "required": false, "autocomplete": "" }
+    ],
+    "markets": [
+      {
+        "id": "forex",
+        "name": "FOREX MARKETS",
+        "badge": "Global Multi-Asset",
+        "description": "Trade 60+ currency pairs, major indices, and commodities with raw spreads, sub-millisecond execution, and 1:500 leverage.",
+        "accountType": "Forex trading account",
+        "registrationUrl": "",
+        "minDeposit": "$100 USD",
+        "executionSpeed": "< Fast",
+        "maxLeverage": "Based on Equity",
+        "requirements": [
+          "Government Issued ID (CNIC / Passport)",
+          "Active Mobile Number & Email Verification"
+          
+        ],
+        "benefits": [
+          "Support From Our Team",
+          "MT4, MT5 & WebTrader Access",
+          "Instant Crypto & Local Bank Deposits",
+          "24/7 Dedicated Account Manager"
+        ]
+      },
+      {
+        "id": "psx",
+        "name": "PSX (Pakistan Stock Exchange)",
+        "badge": "SECP Regulated",
+        "description": "Direct access to 500+ listed companies on the Pakistan Stock Exchange with SECP compliant broker integration and CDC sub-account setup.",
+        "accountType": "PSX trading account",
+        "registrationUrl": "",
+        "minDeposit": "PKR 5,000",
+        "executionSpeed": "Real-time T+1 / Ready",
+        "maxLeverage": "Cash / Margin Financing",
+        "requirements": [
+          "Valid CNIC / NICOP Copy",
+          "All requirements shows according to our Account Type. So proceed your Account Registration"
+         
+        ],
+        "benefits": [
+          "Direct CDC Sub-Account creation",
+          "Lowest Brokerage Commission Rates",
+          "Dividend Payouts & Rights Issue Management",
+          "Daily Fundamental & Technical Stock Calls"
+        ]
+      },
+      {
+        "id": "pmex",
+        "name": "PMEX (Pakistan Mercantile Exchange)",
+        "badge": "Commodities & Futures",
+        "description": "Trade Gold, Silver, Crude Oil, Natural Gas, and Global Indices legally under PMEX regulatory framework in Pakistan.",
+        "accountType": "PMEX trading account",
+        "registrationUrl": "",
+        "minDeposit": "PKR 25,000",
+        "executionSpeed": "Instant Matching Engine",
+        "maxLeverage": "Regulated Exchange Margins",
+        "requirements": [
+          "CNIC Copy & Biometric Verification",
+          "Bank Account Maintenance Certificate",
+          "NTN (National Tax Number Certificate)",
+          "Next of Kin / Nominee Details & CNIC"
+        ],
+        "benefits": [
+          "100% Regulated Futures Trading in Pakistan",
+          "Trade Gold (1 Tola, 10 Grams, Ounce Contracts)",
+          "Direct Clearing & Settlement via PMEX",
+          "Zero Counterparty Risk with Multi-Currency Settlement"
+        ]
+      }
+    ],
+    "occupationOptions": [
+      { "id": "student", "label": "Student", "icon": "GraduationCap", "eligibleTypes": ["sahulat"] },
+      { "id": "unemployed", "label": "Unemployed", "icon": "UserRound", "eligibleTypes": ["sahulat"] },
+      { "id": "household", "label": "Household / Homemaker", "icon": "House", "eligibleTypes": ["sahulat"] },
+      { "id": "employed", "label": "Salaried Employed", "icon": "BriefcaseBusiness", "eligibleTypes": ["normal"] },
+      { "id": "businessman", "label": "Business Owner", "icon": "BriefcaseBusiness", "eligibleTypes": ["normal"] }
+    ]
+  },
+
+
+
+
+   
+  "productsPage": {
+    "badge": "Automated Trading Technologies",
+    "heading": "Institutional FinTech Products & Bots",
+    "subheading": "Scale your capital with high-frequency algorithmic bots, AI signal engines, crypto yield vaults, and copy-trading architectures.",
+    "products": [
+      {
+        "id": "ai-signal-bot",
+        "title": "Investrade AI Signal Engine",
+        "category": "Bots & Signals",
+        "badge": "MOST POPULAR",
+        "shortDesc": "Real-time Machine Learning model processing Order Flow, Liquidity Gaps, and Volume Delta across Forex & Gold.",
+        "pricePKR": "12,000 PKR / mo",
+        "priceUSD": "$45 / mo",
+        "pricingPlans": [
+          { "id": "monthly", "duration": "1 Month", "pricePKR": "12,000 PKR", "priceUSD": "$45", "discount": "", "isPopular": false },
+          { "id": "quarterly", "duration": "3 Months", "pricePKR": "32,000 PKR", "priceUSD": "$115", "discount": "Save 11%", "isPopular": false },
+          { "id": "annual", "duration": "1 Year", "pricePKR": "120,000 PKR", "priceUSD": "$420", "discount": "Best value", "isPopular": true }
+        ],
+        "winRate": "88.4%",
+        "subscribers": "1,420+",
+        "mediaUrl": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&q=80&w=1200",
+        "features": [
+          "Sub-second Telegram & Discord Signal Delivery",
+          "Includes Exact Entry, Multi-TPs & Dynamic Stop-Loss",
+          "Automated Risk-to-Reward Calculator (1:3 Minimum)",
+          "Compatible with MetaTrader 5, MetaTrader 4, & TradingView"
+        ],
+        "detailedDescription": "The Investrade AI Signal Engine continuously scans market depth and institutional liquidity pools. Trained on over 10 years of tick-level historical data, it identifies high-probability order block reactions, fair value gaps, and liquidity sweeps across EURUSD, GBPUSD, and Gold (XAUUSD).",
+        "specs": [
+          { "label": "Execution Mode", "value": "Automated Webhook / Instant Alert" },
+          { "label": "Avg Risk-Reward", "value": "1:3.5 RR" },
+          { "label": "Market Coverage", "value": "Forex, Crypto, Gold" },
+          { "label": "Latency", "value": "< 10 Milliseconds" }
+        ]
+      },
+      {
+        "id": "algo-trading-bot",
+        "title": "Quantum Grid Algo Bot (MT5 EA)",
+        "category": "Bots & Signals",
+        "badge": "AUTOMATED EA",
+        "shortDesc": "Fully automated MetaTrader 5 Expert Advisor executing smart grid hedging and trend-following strategies.",
+        "pricePKR": "45,000 PKR (Lifetime)",
+        "priceUSD": "$160 (Lifetime)",
+        "pricingPlans": [
+          { "id": "lifetime", "duration": "Lifetime", "pricePKR": "45,000 PKR", "priceUSD": "$160", "discount": "", "isPopular": true }
+        ],
+        "winRate": "92.1%",
+        "subscribers": "890+",
+        "mediaUrl": "https://images.unsplash.com/photo-1642543492481-44e81e3914a7?auto=format&fit=crop&q=80&w=1200",
+        "features": [
+          "100% Hands-Free MT5 Auto-Execution",
+          "Built-in Equity Protection & Hard Drawdown Stop (Max 8%)",
+          "Dynamic Grid Adjustment based on Average True Range (ATR)",
+          "Prop-Firm Evaluation Compliant Rules"
+        ],
+        "detailedDescription": "Designed for serious capital allocators, the Quantum Grid Algo Bot executes orders directly on your MT5 terminal without human intervention. Its proprietary drawdown protection protocols ensure your capital remains shielded during extreme market volatility and central bank news releases.",
+        "specs": [
+          { "label": "Platform", "value": "MetaTrader 5 (MT5)" },
+          { "label": "Max Drawdown Cap", "value": "8.0% Fixed" },
+          { "label": "Recommended Min Balance", "value": "$1,000 USD" },
+          { "label": "License Type", "value": "Single Account Lifetime" }
+        ]
+      },
+      {
+        "id": "stake-earn-vaults",
+        "title": "Investrade Stake & Earn Vaults",
+        "category": "Staking & Earn",
+        "badge": "HIGH YIELD",
+        "shortDesc": "Deposit USDT or Capital into decentralized yield vaults powered by institutional liquidity provision and delta-neutral arbitrage.",
+        "pricePKR": "Variable APY",
+        "priceUSD": "Up to 24% APY",
+        "pricingPlans": [
+          { "id": "30-day", "duration": "30 Days", "pricePKR": "Variable APY", "priceUSD": "Up to 24% APY", "discount": "", "isPopular": false },
+          { "id": "90-day", "duration": "90 Days", "pricePKR": "Variable APY", "priceUSD": "Up to 24% APY", "discount": "", "isPopular": false },
+          { "id": "180-day", "duration": "180 Days", "pricePKR": "Variable APY", "priceUSD": "Up to 24% APY", "discount": "", "isPopular": false }
+        ],
+        "winRate": "Stable Yield",
+        "subscribers": "3,100+",
+        "mediaUrl": "https://images.unsplash.com/photo-1622979135225-d2ba269bc1bd?auto=format&fit=crop&q=80&w=1200",
+        "features": [
+          "Daily Yield Payouts directly to your Wallet",
+          "Delta-Neutral Arbitrage Strategy with Zero Directional Exposure",
+          "Flexible 30-day, 90-day, and 180-day Staking Periods",
+          "Audited Smart Contracts & Multi-Sig Vault Security"
+        ],
+        "detailedDescription": "Stake your capital into institutional liquidity vaults. Your deposited funds generate passive income through low-risk funding rate arbitrage, cross-exchange liquidity spreads, and SECP/A-Book transaction fee distribution.",
+        "specs": [
+          { "label": "Payout Frequency", "value": "Daily Crediting" },
+          { "label": "Minimum Stake", "value": "$100 USDT / PKR 30,000" },
+          { "label": "Security Model", "value": "Multi-Sig Cold Storage" },
+          { "label": "Lockup Periods", "value": "Flexible / 30 / 90 Days" }
+        ]
+      },
+      {
+        "id": "copy-trading-engine",
+        "title": "Institutional Copy Trading Engine",
+        "category": "Copy Trading",
+        "badge": "ONE-CLICK COPY",
+        "shortDesc": "Automatically mirror the trade setups of Investrade's top master traders in real time on your Exness / Broker account.",
+        "pricePKR": "0 PKR Upfront (20% Profit Share)",
+        "priceUSD": "Free (20% Performance Fee)",
+        "pricingPlans": [
+          { "id": "profit-share", "duration": "Profit Share", "pricePKR": "0 PKR Upfront", "priceUSD": "Free", "discount": "20% performance fee", "isPopular": true }
+        ],
+        "winRate": "86.7%",
+        "subscribers": "5,400+",
+        "mediaUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&q=80&w=1200",
+        "features": [
+          "1-Click Broker Account Synchronization",
+          "Proportional Lot Sizing Auto-Adjusted to Your Equity",
+          "Zero Monthly Fixed Fees (Pay Only When Master Trader Makes Profit)",
+          "Instant Disconnect & Manual Close Override Option"
+        ],
+        "detailedDescription": "The Copy Trading Engine connects your personal trading account directly to master accounts managed by our lead quantitative traders. Every entry, stop-loss, and take-profit is mirrored instantly in sub-milliseconds without requiring manual execution.",
+        "specs": [
+          { "label": "Latency", "value": "< 5 Milliseconds" },
+          { "label": "Performance Fee", "value": "20% High-Water Mark" },
+          { "label": "Compatible Brokers", "value": "Exness, OctaFX, MT4/MT5" },
+          { "label": "Min Investment", "value": "$200 USD" }
+        ]
+      }
+    ]
+  },
+
+
+
+  "adminProductsManagementPage": {
+    "badge": "Institutional FinTech Store Desk",
+    "heading": "FinTech Products & Purchases Control",
+    "subheading": "Manage algorithmic bots, yield vaults, pricing structures, and audit live client product purchasing subscriptions.",
+    "purchases": [
+      {
+        "id": "pur_101",
+        "userName": "Muhammad Ali",
+        "email": "ali.trader@investrade.pk",
+        "productTitle": "Investrade AI Signal Engine",
+        "pricePaid": "12,000 PKR / mo",
+        "paymentMethod": "Bank Transfer / USDT",
+        "purchasedOn": "2026-10-01",
+        "expiresAt": "2026-11-15T23:59:59",
+        "status": "APPROVED"
+      },
+      {
+        "id": "pur_102",
+        "userName": "David Chen",
+        "email": "david.chen@bloomberg.us",
+        "productTitle": "Quantum Grid Algo Bot (MT5 EA)",
+        "pricePaid": "$160 (Lifetime)",
+        "paymentMethod": "Crypto USDT (TRC20)",
+        "purchasedOn": "2026-03-10",
+        "expiresAt": null,
+        "status": "APPROVED"
+      },
+      {
+        "id": "pur_103",
+        "userName": "Usman Khan",
+        "email": "usman@investrade.pk",
+        "productTitle": "Institutional Copy Trading Engine",
+        "pricePaid": "20% Profit Share",
+        "paymentMethod": "Exness Broker Sync",
+        "purchasedOn": "2026-10-20",
+        "expiresAt": "2026-11-20T18:00:00",
+        "status": "PENDING"
+      }
+    ]
+  },
+
+
+
+
+
+
+
+
+
+
+   
+  "academyPage": {
+    "badge": "Institutional Trading Academy",
+    "heading": "Master Financial Markets From Scratch",
+    "subheading": "Learn Forex, PSX Equities, Crypto Trading, and Algorithmic Execution from certified institutional mentors with lifetime video access.",
+    "courses": [
+      {
+        "id": "institutional-forex-mastery",
+        "title": "Institutional Forex & Smart Money Concepts (SMC)",
+        "category": "Forex",
+        "level": "Intermediate to Pro",
+        "duration": "18 Hours Video",
+        "badge": "BESTSELLER",
+        "pricePKR": "15,000 PKR",
+        "priceUSD": "$55",
+        "instructor": {
+          "name": "Hamza Malik",
+          "role": "Chief Risk Strategist",
+          "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&q=80&w=200"
+        },
+        "thumbnail": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&q=80&w=1200",
+        "shortDesc": "Master liquidity sweeps, order blocks, fair value gaps, and risk management strategies used by central banks.",
+        "likesCount": 482,
+        "comments": [
+          {
+            "id": "c1",
+            "userName": "Usman Khan",
+            "userAvatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&q=80&w=100",
+            "date": "Yesterday",
+            "comment": "The SMC Order Block section completely changed my trading accuracy!"
+          },
+          {
+            "id": "c2",
+            "userName": "Sarah Ahmed",
+            "userAvatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&q=80&w=100",
+            "date": "3 days ago",
+            "comment": "Super clear explanations. Best investment I've made in financial learning."
+          }
+        ],
+        "modules": [
+          {
+            "title": "Module 1: Liquidity & Order Flow Basics",
+            "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+            "type": "youtube"
+          },
+          {
+            "title": "Module 2: Identifying Institutional Order Blocks",
+            "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+            "type": "youtube"
+          },
+          {
+            "title": "Module 3: Fair Value Gap (FVG) Strategy Breakdown",
+            "videoUrl": "https://drive.google.com/file/d/1obIwQKMtdUBExFIREc2KlzgAniCDBECR/view?usp=sharing",
+            "type": "drive"
+          }
+        ]
+      },
+      {
+        "id": "psx-stock-market-masterclass",
+        "title": "PSX Equity Trading & Fundamental Stock Analysis",
+        "category": "PSX Stocks",
+        "level": "Beginner Friendly",
+        "duration": "12 Hours Video",
+        "badge": "SECP COMPLIANT",
+        "pricePKR": "12,000 PKR",
+        "priceUSD": "$45",
+        "instructor": {
+          "name": "Danish Siddiqui",
+          "role": "Senior Macro Market Analyst",
+          "avatar": "https://images.unsplash.com/photo-1522075469751-3a6694fb2f61?auto=format&fit=crop&q=80&w=200"
+        },
+        "thumbnail": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&q=80&w=1200",
+        "shortDesc": "Learn to analyze balance sheets, financial ratios, dividend yields, and swing setups on the Pakistan Stock Exchange.",
+        "likesCount": 310,
+        "comments": [],
+        "modules": [
+          {
+            "title": "Module 1: PSX Onboarding & CDC Account Setup",
+            "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+            "type": "youtube"
+          },
+          {
+            "title": "Module 2: Reading Balance Sheets & Income Statements",
+            "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+            "type": "youtube"
+          }
+        ]
+      },
+      {
+        "id": "algorithmic-bot-development",
+        "title": "MT5 Algorithmic Bot Development & MQL5 Programming",
+        "category": "Algorithmic AI",
+        "level": "Advanced",
+        "duration": "24 Hours Video",
+        "badge": "FINTECH PRO",
+        "pricePKR": "25,000 PKR",
+        "priceUSD": "$90",
+        "instructor": {
+          "name": "David Chen",
+          "role": "Chief Tech Officer",
+          "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&q=80&w=200"
+        },
+        "thumbnail": "https://images.unsplash.com/photo-1642543492481-44e81e3914a7?auto=format&fit=crop&q=80&w=1200",
+        "shortDesc": "Build, backtest, and deploy high-frequency automated trading bots and EAs for MetaTrader 5 without code bugs.",
+        "likesCount": 540,
+        "comments": [],
+        "modules": [
+          {
+            "title": "Module 1: MQL5 Environment Setup & EA Architecture",
+            "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+            "type": "youtube"
+          }
+        ]
+      }
+    ]
+  },
+
+
+
+
+
+   
+  "marketWatchPage": {
+    "badge": "Real-Time Institutional Desk",
+    "heading": "Investrade Market Watch",
+    "subheading": "Track live technical indicators, Economic Calendar fundamentals, and real-time financial news coverage.",
+    "fundamentalsData": [
+      {
+        "id": "f1",
+        "time": "17:30",
+        "currency": "USD",
+        "impact": "High",
+        "event": "Core CPI (MoM)",
+        "actual": "0.3%",
+        "forecast": "0.3%",
+        "previous": "0.2%"
+      },
+      {
+        "id": "f2",
+        "time": "18:00",
+        "currency": "USD",
+        "impact": "High",
+        "event": "Unemployment Claims",
+        "actual": "218K",
+        "forecast": "225K",
+        "previous": "224K"
+      },
+      {
+        "id": "f3",
+        "time": "19:30",
+        "currency": "GBP",
+        "impact": "Medium",
+        "event": "BOE Gov Bailey Speaks",
+        "actual": "-",
+        "forecast": "-",
+        "previous": "-"
+      },
+      {
+        "id": "f4",
+        "time": "21:00",
+        "currency": "PKR",
+        "impact": "High",
+        "event": "SBP Policy Rate Decision",
+        "actual": "17.5%",
+        "forecast": "17.5%",
+        "previous": "19.5%"
+      },
+      {
+        "id": "f5",
+        "time": "22:30",
+        "currency": "EUR",
+        "impact": "Low",
+        "event": "German Consumer Climate",
+        "actual": "-21.2",
+        "forecast": "-21.0",
+        "previous": "-21.8"
+      }
+    ],
+    "newsData": [
+      {
+        "id": "n1",
+        "title": "KSE-100 Surges Past Key Resistance as Foreign Capital Flows Into Banking Sector",
+        "source": "Business Recorder / PSX Desk",
+        "category": "pakistani",
+        "time": "10 Mins Ago",
+        "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+        "summary": "Pakistan Stock Exchange benchmark index gained over 650 points in early trading driven by strong earnings reports from commercial banks.",
+        "url": "https://www.fp.com.pk"
+      },
+      {
+        "id": "n2",
+        "title": "Fed Interest Rate Expectations Shift Following Higher Yield Auctions",
+        "source": "Reuters Financial",
+        "category": "international",
+        "time": "25 Mins Ago",
+        "image": "https://images.unsplash.com/photo-1618044733300-9472054094ee?auto=format&fit=crop&w=1200&q=80",
+        "summary": "US Treasury yields edged higher as traders recalibrate federal fund rate cut probabilities ahead of the upcoming FOMC statement.",
+        "url": "https://www.reuters.com"
+      },
+      {
+        "id": "n3",
+        "title": "Gold Touches Record Highs Amid Central Bank Accumulation & Macro Uncertainties",
+        "source": "Bloomberg Commodities",
+        "category": "international",
+        "time": "1 Hour Ago",
+        "image": "https://images.unsplash.com/photo-1610375461246-83df859d849d?auto=format&fit=crop&w=1200&q=80",
+        "summary": "Spot Gold (XAUUSD) extended gains above $2,700/oz as global central banks continue expanding physical bullion reserves.",
+        "url": "https://www.bloomberg.com"
+      },
+      {
+        "id": "n4",
+        "title": "SBP Reserves Rise by $120 Million Following Export Realizations",
+        "source": "State Bank of Pakistan / Dawn",
+        "category": "pakistani",
+        "time": "2 Hours Ago",
+        "image": "https://images.unsplash.com/photo-1565514020179-026b92b84bb6?auto=format&fit=crop&w=1200&q=80",
+        "summary": "Liquid foreign reserves held by the central bank reached a 24-month high, improving import coverage and FX liquidity.",
+        "url": "https://www.sbp.org.pk"
+      }
+    ]
+  },
+
+
+
+
+
+
+    
+  "communityPage": {
+    "badge": "Traders Social Hub",
+    "heading": "Investrade Trader Community",
+    "subheading": "Connect with 50,000+ verified traders worldwide. Share trade setups, discuss market trends, and get feedback from certified analysts.",
+    "initialPosts": [
+      {
+        "id": "post_1",
+        "author": {
+          "name": "Hamza Malik",
+          "role": "Chief Risk Strategist",
+          "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&q=80&w=200",
+          "isVerified": true
+        },
+        "category": "Technical Analysis",
+        "time": "15 mins ago",
+        "content": "Gold (XAUUSD) has just swept the previous week's high liquidity at $2,735 and is printing a clean Bearish Order Block on the 4H timeframe. Expecting a retracement down towards the $2,710 Fair Value Gap zone before further upside continuation.",
+        "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&q=80&w=1200",
+        "likesCount": 142,
+        "isLiked": false,
+        "comments": [
+          {
+            "id": "c_101",
+            "userName": "Usman Khan",
+            "userAvatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&q=80&w=100",
+            "time": "10 mins ago",
+            "text": "Great spot! Watching for lower timeframe confirmation on 15m chart before taking entry."
+          },
+          {
+            "id": "c_102",
+            "userName": "Sarah Ahmed",
+            "userAvatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&q=80&w=100",
+            "time": "5 mins ago",
+            "text": "Thanks for the heads up, Hamza! Stop loss placement above $2,742 looks safe."
+          }
+        ]
+      },
+      {
+        "id": "post_2",
+        "author": {
+          "name": "Danish Siddiqui",
+          "role": "Senior Macro Market Analyst",
+          "avatar": "https://images.unsplash.com/photo-1522075469751-3a6694fb2f61?auto=format&fit=crop&q=80&w=200",
+          "isVerified": true
+        },
+        "category": "PSX Discussion",
+        "time": "1 hour ago",
+        "content": "KSE-100 index is displaying immense strength today led by the commercial banking sector. MEBL and UBL earnings reports came out stronger than expected. What are your price targets for MEBL this quarter?",
+        "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&q=80&w=1200",
+        "likesCount": 89,
+        "isLiked": false,
+        "comments": []
+      }
+    ]
+  },
+
+
+
+
+
+
+
+  
+  "welcomePortal": {
+    "badge": "Next-Gen Institutional Platform",
+    "heading": "Welcome to",
+    "subheading": "The ultra-luxury FinTech & trading terminal ecosystem. Experience institutional algorithms, live signals, and real-time market depth.",
+    "features": [
+      {
+        "title": "Institutional Signals Engine",
+        "desc": "Real-time Machine Learning trade calls across Forex, PSX, & PMEX markets."
+      },
+      {
+        "title": "Automated EA & FinTech Bots",
+        "desc": "Hands-free MT5 expert advisors and high-yield liquidity vaults."
+      },
+      {
+        "title": "Dual Terminal Ecosystem",
+        "desc": "Unified data architecture powering Client portals and Admin management control desks."
+      }
+    ],
+    "getStartedBtn": "Get Started",
+    "signupPrompt": "New to Investrade? Create your institutional account now."
+  },
+
+
+
+
+
+
+   
+  "dashboardSidebar": {
+    "user": {
+      "name": "Muhammad Ali",
+      "email": "ali.trader@investrade.pk",
+      "badge": "VIP Pro Trader",
+      "avatar": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?auto=format&fit=crop&q=80&w=200"
+    },
+    "navigation": [
+      {
+        "id": "1",
+        "label": "Dashboard",
+        "path": "/dashboard",
+        "icon": "LayoutDashboard"
+      },
+      {
+        "id": "2",
+        "label": "Vip Groups",
+        "path": "/dashboard/vip-groups",
+        "icon": "Crown"
+      },
+      {
+        "id": "3",
+        "label": "Courses",
+        "path": "/dashboard/courses",
+        "icon": "GraduationCap"
+      },
+      {
+        "id": "4",
+        "label": "Premium Signals",
+        "path": "/dashboard/signals",
+        "icon": "Zap"
+      },
+      {
+        "id": "7",
+        "label": "My Products",
+        "path": "/dashboard/products",
+        "icon": "Package"
+      },
+      {
+        "id": "5",
+        "label": "Write Blog",
+        "path": "/write-blog",
+        "icon": "PenTool"
+      },
+      {
+        "id": "6",
+        "label": "Edit Profile",
+        "path": "/edit-profile",
+        "icon": "UserEdit"
+      }
+    ],
+    "logoutLabel": "Logout"
+  },
+
+
+
+
+
+
+
+  "dashboardWelcomePage": {
+    "userGreeting": "Welcome Back, Muhammad Ali!",
+    "statusBadge": "Verified Institutional Trader",
+    "lastLogin": "Today at 04:15 PM PKT",
+    "liveTickers": [
+      { "pair": "XAU/USD", "price": "$2,735.40", "change": "+1.25%", "isUp": true },
+      { "pair": "EUR/USD", "price": "1.0845", "change": "-0.18%", "isUp": false },
+      { "pair": "KSE-100", "price": "85,420.10", "change": "+0.85%", "isUp": true },
+      { "pair": "BTC/USD", "price": "$67,890.00", "change": "+3.40%", "isUp": true }
+    ],
+    "metrics": [
+      {
+        "id": "1",
+        "title": "Total Equity",
+        "value": "$24,850.50",
+        "change": "+14.2% this month",
+        "isPositive": true,
+        "icon": "Wallet"
+      },
+      {
+        "id": "2",
+        "title": "Active VIP Signals",
+        "value": "18 Active",
+        "change": "88% Win Rate",
+        "isPositive": true,
+        "icon": "Zap"
+      },
+      {
+        "id": "3",
+        "title": "Enrolled Courses",
+        "value": "3 Courses",
+        "change": "75% Completed",
+        "isPositive": true,
+        "icon": "GraduationCap"
+      },
+      {
+        "id": "4",
+        "title": "Funded Account Limit",
+        "value": "$100,000",
+        "change": "Phase 2 Evaluation",
+        "isPositive": true,
+        "icon": "ShieldCheck"
+      }
+    ],
+    "chartData": [
+      { "month": "Jan", "equity": 12000 },
+      { "month": "Feb", "equity": 14500 },
+      { "month": "Mar", "equity": 13800 },
+      { "month": "Apr", "equity": 18200 },
+      { "month": "May", "equity": 21000 },
+      { "month": "Jun", "equity": 24850 }
+    ],
+    "winLossRatio": {
+      "winPercentage": 88,
+      "totalTrades": 142,
+      "wins": 125,
+      "losses": 17
+    },
+    "quickActions": [
+      { "id": "q1", "label": "Connect Bot", "path": "/dashboard/products", "icon": "Bot" },
+      { "id": "q2", "label": "Open Account", "path": "/account-opening", "icon": "Building2" },
+      { "id": "q3", "label": "VIP Groups", "path": "/dashboard/vip-groups", "icon": "Crown" },
+      { "id": "q4", "label": "Market Watch", "path": "/market-watch", "icon": "BarChart3" }
+    ],
+    "recentTrades": [
+      {
+        "id": "t1",
+        "pair": "XAU/USD (Gold)",
+        "type": "BUY / LONG",
+        "entry": "$2,720.50",
+        "tp": "$2,745.00",
+        "profit": "+$1,420.00",
+        "status": "Closed in Profit"
+      },
+      {
+        "id": "t2",
+        "pair": "EUR/USD",
+        "type": "SELL / SHORT",
+        "entry": "1.0840",
+        "tp": "1.0790",
+        "profit": "+$580.00",
+        "status": "Closed in Profit"
+      },
+      {
+        "id": "t3",
+        "pair": "KSE-100 (MEBL)",
+        "type": "BUY / ACCUMULATE",
+        "entry": "PKR 220.00",
+        "tp": "PKR 250.00",
+        "profit": "+12.5%",
+        "status": "Active Holding"
+      }
+    ]
+  },
+
+
+
+   
+  "unifiedProfilePage": {
+    "badge": "Account Control Center",
+    "heading": "Profile & Terminal Security",
+    "subheading": "Manage personal credentials, contact parameters, avatar picture, and terminal security parameters.",
+    "roles": {
+      "client": {
+        "roleName": "Client / Trader",
+        "badge": "VIP Pro Trader",
+        "fullName": "Muhammad Ali",
+        "dob": "1996-08-14",
+        "email": "ali.trader@investrade.pk",
+        "phone": "+92 300 1234567",
+        "occupation": "Institutional Trader",
+        "telegramHandle": "@ali_investrade",
+        "tradingViewHandle": "AliTrader_PRO",
+        "avatar": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?auto=format&fit=crop&q=80&w=200"
+      },
+      "admin": {
+        "roleName": "Super Administrator",
+        "badge": "Master System Admin",
+        "fullName": "System Administrator",
+        "dob": "1990-01-01",
+        "email": "admin@investrade.pk",
+        "phone": "+92 300 0000000",
+        "occupation": "Chief Tech & Risk Strategist",
+        "telegramHandle": "@admin_investrade",
+        "tradingViewHandle": "Investrade_HQ",
+        "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&q=80&w=200"
+      }
+    }
+  },
+
+
+
+
+
+
+
+
+
+   
+  "clientDashboardSignalsPage": {
+    "badge": "Real-Time Terminal Feed",
+    "heading": "Client Premium Signals Hub",
+    "subheading": "Track active institutional trade calls, target profit hits, stop-loss levels, and live risk-to-reward ratios across subscribed markets.",
+    "signals": [
+      {
+        "id": "sig_fx_01",
+        "marketId": "forex",
+        "pair": "XAU/USD (Gold)",
+        "type": "BUY / LONG",
+        "entry": "$2,720.50",
+        "tp1": "$2,735.00",
+        "tp2": "$2,748.00",
+        "tp3": "$2,760.00",
+        "sl": "$2,708.00",
+        "rrRatio": "1:3.2",
+        "status": "TP HIT",
+        "time": "Today, 02:15 PM PKT",
+        "analyst": "Hamza Malik",
+        "notes": "Order block reaction from 4H Liquidity Sweep."
+      },
+      {
+        "id": "sig_fx_02",
+        "marketId": "forex",
+        "pair": "EUR/USD",
+        "type": "SELL / SHORT",
+        "entry": "1.0845",
+        "tp1": "1.0810",
+        "tp2": "1.0780",
+        "tp3": "1.0740",
+        "sl": "1.0880",
+        "rrRatio": "1:2.8",
+        "status": "ACTIVE",
+        "time": "Today, 04:30 PM PKT",
+        "analyst": "Hamza Malik",
+        "notes": "Fair Value Gap rejection on London Session open."
+      },
+      {
+        "id": "sig_psx_01",
+        "marketId": "psx",
+        "pair": "MEBL (Meezan Bank)",
+        "type": "BUY / SWING",
+        "entry": "PKR 220.00",
+        "tp1": "PKR 235.00",
+        "tp2": "PKR 250.00",
+        "tp3": "PKR 270.00",
+        "sl": "PKR 208.00",
+        "rrRatio": "1:2.5",
+        "status": "ACTIVE",
+        "time": "Yesterday, 10:00 AM PKT",
+        "analyst": "Danish Siddiqui",
+        "notes": "Strong quarterly dividend payout expectations."
+      },
+      {
+        "id": "sig_psx_02",
+        "marketId": "psx",
+        "pair": "OGDC (Oil & Gas)",
+        "type": "BUY / DAY TRADING",
+        "entry": "PKR 142.50",
+        "tp1": "PKR 148.00",
+        "tp2": "PKR 152.00",
+        "tp3": "PKR 158.00",
+        "sl": "PKR 139.00",
+        "rrRatio": "1:2.1",
+        "status": "SL HIT",
+        "time": "2 Days Ago",
+        "analyst": "Danish Siddiqui",
+        "notes": "Invalidated by sudden crude oil price drop."
+      },
+      {
+        "id": "sig_pmex_01",
+        "marketId": "pmex",
+        "pair": "CRUDE OIL (100 Barrels)",
+        "type": "SELL / SHORT",
+        "entry": "$74.20",
+        "tp1": "$72.50",
+        "tp2": "$71.00",
+        "tp3": "$69.00",
+        "sl": "$75.40",
+        "rrRatio": "1:3.0",
+        "status": "TP HIT",
+        "time": "Yesterday, 07:45 PM PKT",
+        "analyst": "David Chen",
+        "notes": "US Inventory surplus buildup report."
+      }
+    ]
+  },
+
+
+
+
+
+
+
+
+
+
+  
+  "clientDashboardCoursesPage": {
+    "badge": "My Learning Academy",
+    "heading": "Enrolled Courses & Progress",
+    "subheading": "Track your course completion percentage, resume video lectures, and download institutional study guides.",
+    "enrolledCourses": [
+      {
+        "id": "institutional-forex-mastery",
+        "title": "Institutional Forex & Smart Money Concepts (SMC)",
+        "category": "Forex",
+        "level": "Intermediate to Pro",
+        "progressPercentage": 75,
+        "completedModules": 6,
+        "totalModules": 8,
+        "lastWatchedModule": "Module 6: Order Blocks & Fair Value Gaps",
+        "instructor": "Hamza Malik",
+        "thumbnail": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&q=80&w=1200",
+        "status": "In Progress"
+      },
+      {
+        "id": "psx-stock-market-masterclass",
+        "title": "PSX Equity Trading & Fundamental Stock Analysis",
+        "category": "PSX Stocks",
+        "level": "Beginner Friendly",
+        "progressPercentage": 100,
+        "completedModules": 5,
+        "totalModules": 5,
+        "lastWatchedModule": "Module 5: Portfolio Diversification & SECP Rules",
+        "instructor": "Danish Siddiqui",
+        "thumbnail": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&q=80&w=1200",
+        "status": "Completed"
+      }
+    ]
+  },
+
+
+
+
+    
+  "clientDashboardVipPage": {
+    "badge": "Active VIP Subscriptions",
+    "heading": "My Subscribed VIP Groups",
+    "subheading": "Track your active VIP market signals, remaining subscription validity, and group access status in real-time.",
+    "subscriptions": [
+      {
+        "id": "sub_psx_01",
+        "marketId": "psx",
+        "marketName": "Pakistan Stock Exchange (PSX) VIP",
+        "badge": "SECP Compliant Stocks",
+        "plan": "1 Year Membership",
+        "price": "43,000 PKR",
+        "startDate": "2026-01-15",
+        "expiryDate": "2027-01-15T23:59:59",
+        "status": "Active",
+        "accessLink": "https://t.me/investrade_psx_vip",
+        "features": [
+          "Daily PSX Swing & Intraday Signals",
+          "KSE-100 Technical Breakdowns",
+          "Portfolio Guidance & Sector Rotation"
+        ]
+      },
+      {
+        "id": "sub_forex_02",
+        "marketId": "forex",
+        "marketName": "Investrade Forex & Gold VIP Community",
+        "badge": "Global Multi-Asset FX",
+        "plan": "6 Months Membership",
+        "price": "25,000 PKR",
+        "startDate": "2026-05-10",
+        "expiryDate": "2026-11-10T23:59:59",
+        "status": "Active",
+        "accessLink": "https://t.me/investrade_forex_vip",
+        "features": [
+          "85%+ Win-rate FX & Gold Signals",
+          "Daily NY/London Session Live Streams",
+          "1:3+ Risk-to-Reward Ratio Setups"
+        ]
+      },
+      {
+        "id": "sub_pmex_03",
+        "marketId": "pmex",
+        "marketName": "Pakistan Mercantile Exchange (PMEX) VIP",
+        "badge": "Commodities & Futures",
+        "plan": "None",
+        "price": "N/A",
+        "startDate": "N/A",
+        "expiryDate": null,
+        "status": "Inactive",
+        "accessLink": null,
+        "features": []
+      }
+    ]
+  },
+
+
+
+
+  
+  "adminUserManagement": {
+    "badge": "Institutional Directory",
+    "heading": "Platform User Management",
+    "subheading": "Monitor registered platform accounts, verify user credentials, update security permissions, edit profiles, and manage roles.",
+    "usersList": [
+      {
+        "id": "usr_01",
+        "name": "Muhammad Ali",
+        "email": "ali.trader@investrade.pk",
+        "phone": "+92 300 1234567",
+        "country": "Pakistan",
+        "flag": "🇵🇰",
+        "role": "Client",
+        "status": "Active",
+        "badge": "VIP Pro Trader",
+        "joined": "15 Jan 2026",
+        "avatar": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?auto=format&fit=crop&q=80&w=200"
+      },
+      {
+        "id": "usr_02",
+        "name": "System Administrator",
+        "email": "admin@investrade.pk",
+        "phone": "+92 300 0000000",
+        "country": "Pakistan",
+        "flag": "🇵🇰",
+        "role": "Admin",
+        "status": "Active",
+        "badge": "Master Admin",
+        "joined": "01 Jan 2025",
+        "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&q=80&w=200"
+      },
+      {
+        "id": "usr_03",
+        "name": "David Chen",
+        "email": "david.chen@bloomberg.us",
+        "phone": "+1 415 892 3341",
+        "country": "United States",
+        "flag": "🇺🇸",
+        "role": "VIP Client",
+        "status": "Active",
+        "badge": "Institutional",
+        "joined": "10 Feb 2026",
+        "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&q=80&w=200"
+      },
+      {
+        "id": "usr_04",
+        "name": "Sarah Ahmed",
+        "email": "sarah.ahmed@gmail.com",
+        "phone": "+92 321 4455667",
+        "country": "United Kingdom",
+        "flag": "🇬🇧",
+        "role": "Client",
+        "status": "Suspended",
+        "badge": "Standard",
+        "joined": "20 Feb 2026",
+        "avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&q=80&w=200"
+      },
+      {
+        "id": "usr_05",
+        "name": "Danish Siddiqui",
+        "email": "danish@investrade.pk",
+        "phone": "+92 333 7788990",
+        "country": "Pakistan",
+        "flag": "🇵🇰",
+        "role": "Admin",
+        "status": "Active",
+        "badge": "Risk Strategist",
+        "joined": "05 Mar 2025",
+        "avatar": "https://images.unsplash.com/photo-1522075469751-3a6694fb2f61?auto=format&fit=crop&q=80&w=200"
+      }
+    ]
+  },
+
+
+
+  
+
+  "footerData": {
+    "brandName": "Investrade",
+    "aboutTitle": "About Us",
+    "aboutLinkText": "Read More",
+    "aboutLinkHref": "/about",
+    "usefulLinksTitle": "Useful Links",
+    "socialLinksTitle": "Connect with us",
+    "communityGroupsTitle": "Join Our Groups",
+    "disclaimerTitle": "Disclaimer",
+    "copyrightSuffix": ". All Rights Reserved.",
+    "aboutText": "Welcome to Investrade! Dedicated to the world of financial markets! Our mission is to provide you with insightful and comprehensive information about the ever-evolving landscape of finance. Our goal is to empower you with the knowledge and skills you need to make informed decisions in the financial markets.",
+    "usefulLinks": [
+      { "label": "About Us", "href": "#" },
+      { "label": "VIP Groups", "href": "/vip-groups" },
+      { "label": "Trainings", "href": "#" },
+      { "label": "Blogs", "href": "#" },
+      { "label": "Privacy Policy", "href": "#" },
+      { "label": "Terms And Conditions", "href": "#" }
+    ],
+    "socialLinks": [
+      { "name": "Facebook", "href": "#", "handle": "Facebook" },
+      { "name": "Youtube", "href": "#", "handle": "Youtube" },
+      { "name": "Instagram", "href": "#", "handle": "Instagram" },
+      { "name": "Email", "href": "mailto:Info@Investrade.Pk", "handle": "Info@Investrade.Pk" }
+    ],
+    "communityGroups": [
+      { "name": "Discussion Group", "href": "#" },
+      { "name": "Forex | Crypto | Commodities", "href": "#" },
+      { "name": "PSX Group", "href": "#" }
+    ],
+    "legalLinks": [
+      { "label": "Privacy Policy", "href": "/privacy-policy" },
+      { "label": "Terms of Service", "href": "/terms" },
+      { "label": "Risk Disclosure", "href": "/risk-disclosure" }
+    ],
+    "disclaimer": "Investrade provides trading and investment services, but we do not accept any liability for any losses or damages incurred as a result of relying on the information contained within this website, including but not limited to data, quotes, charts, and buy/sell signals. Trading in the financial markets is a risky investment form, and you should be fully informed of the risks and costs associated with it before making any investment decisions. Please note that Investrade does not guarantee investment performance, and we are not responsible for the actions of brokers or exchanges. It is your responsibility to carefully consider your investment objectives, level of experience, and risk tolerance before making any investment decisions."
+  },
+
+    "adminSidebar": {
+    "adminUser": {
+      "name": "System Administrator",
+      "email": "admin@investrade.pk",
+      "badge": "Master System Admin",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&q=80&w=200"
+    },
+    "navigation": [
+      {
+        "id": "1",
+        "label": "Admin Dashboard",
+        "path": "/admin/dashboard",
+        "icon": "LayoutDashboard"
+      },
+      {
+        "id": "2",
+        "label": "User Management",
+        "path": "/admin/users",
+        "icon": "Users"
+      },
+      {
+        "id": "3",
+        "label": "VIP Approvals & Users",
+        "path": "/admin/vip-approvals",
+        "icon": "Crown"
+      },
+      {
+        "id": "4",
+        "label": "Signals Manager",
+        "path": "/admin/signals",
+        "icon": "Zap"
+      },
+      {
+        "id": "5",
+        "label": "Course Manager",
+        "path": "/admin/content",
+        "icon": "GraduationCap"
+      },
+      {
+        "id": "6",
+        "label": "Products Manage",
+        "path": "/admin/products",
+        "icon": "Package"
+      },
+      {
+        "id": "7",
+        "label": "Account Request",
+        "path": "/admin/account-requests",
+        "icon": "ClipboardList"
+      },
+      {
+        "id": "8",
+        "label": "System Analytics",
+        "path": "/admin/analytics",
+        "icon": "BarChart3"
+      },
+      {
+        "id": "9",
+        "label": "Security & Logs",
+        "path": "/admin/security",
+        "icon": "ShieldAlert"
+      },
+      {
+        "id": "10",
+        "label": "Admin Settings",
+        "path": "/admin/settings",
+        "icon": "Settings"
+      }
+    ],
+    "logoutLabel": "Admin Logout"
+  },
+  "accountRequestDemoData": [
+    {
+      "id": "demo-psx-normal",
+      "requestedAt": "2026-10-26T08:15:00.000Z",
+      "status": "PENDING",
+      "isDemo": true,
+      "market": "Pakistan Stock Exchange (PSX)",
+      "marketId": "psx",
+      "accountType": "PSX Normal / Standard",
+      "fullName": "Sample Client - Ayesha Demo",
+      "email": "ayesha.demo@example.com",
+      "phone": "0300-000-0101",
+      "occupation": "Employee / Salaried",
+      "source": "PSX registration form",
+      "details": {
+        "applicant": {
+          "Full name": "Ayesha Demo (sample)",
+          "CNIC": "00000-0000000-1 (dummy)",
+          "Mobile": "0300-000-0101 (dummy)",
+          "Email": "ayesha.demo@example.com",
+          "Occupation": "Employee / Salaried",
+          "Bank IBAN": "PK00 DUMMY 0000 0000 0000 0001"
+        },
+        "nominee": {
+          "Full name": "Sample Nominee One",
+          "CNIC": "00000-0000000-2 (dummy)",
+          "Date of birth": "1990-01-01 (sample)",
+          "Phone": "0300-000-0102 (dummy)",
+          "Email": "nominee.one@example.com"
+        },
+        "documents": [
+          { "label": "Applicant CNIC (Front Side)", "status": "Sample file listed" },
+          { "label": "Applicant CNIC (Back Side)", "status": "Sample file listed" },
+          { "label": "Nominee CNIC (Front Side)", "status": "Sample file listed" },
+          { "label": "Nominee CNIC (Back Side)", "status": "Sample file listed" },
+          { "label": "IBAN Cheque / Maintenance Certificate", "status": "Sample file listed" },
+          { "label": "Signature Proof (Blank & Plane Paper)", "status": "Sample file listed" },
+          { "label": "Current 6 Months Bank Statement", "status": "Sample file listed" },
+          { "label": "FBR Form 114 Tax Return Statement", "status": "Not provided (optional for salaried sample)" },
+          { "label": "Initial Deposit Slip", "status": "Sample file listed" }
+        ]
+      }
+    },
+    {
+      "id": "demo-psx-sahulat",
+      "requestedAt": "2026-10-25T11:40:00.000Z",
+      "status": "REVIEWING",
+      "isDemo": true,
+      "market": "Pakistan Stock Exchange (PSX)",
+      "marketId": "psx",
+      "accountType": "PSX Saahulat",
+      "fullName": "Sample Client - Hamza Demo",
+      "email": "hamza.demo@example.com",
+      "phone": "0300-000-0201",
+      "occupation": "Student / Household",
+      "source": "PSX registration form",
+      "details": {
+        "applicant": {
+          "Full name": "Hamza Demo (sample)",
+          "CNIC": "00000-0000000-3 (dummy)",
+          "Mobile": "0300-000-0201 (dummy)",
+          "Email": "hamza.demo@example.com",
+          "Occupation": "Student / Household",
+          "Bank IBAN": "PK00 DUMMY 0000 0000 0000 0003"
+        },
+        "nominee": {
+          "Full name": "Sample Nominee Two",
+          "CNIC": "00000-0000000-4 (dummy)",
+          "Date of birth": "1995-02-02 (sample)",
+          "Phone": "0300-000-0202 (dummy)",
+          "Email": "nominee.two@example.com"
+        },
+        "documents": [
+          { "label": "Applicant CNIC (Front Side)", "status": "Sample file listed" },
+          { "label": "Applicant CNIC (Back Side)", "status": "Sample file listed" },
+          { "label": "Nominee CNIC (Front Side)", "status": "Sample file listed" },
+          { "label": "Nominee CNIC (Back Side)", "status": "Sample file listed" },
+          { "label": "IBAN Cheque Copy", "status": "Sample file listed" },
+          { "label": "Signature Proof (Blank & Plane Paper)", "status": "Sample file listed" },
+          { "label": "Income / Pocket Money Proof Image", "status": "Sample file listed" },
+          { "label": "Initial Deposit Slip", "status": "Sample file listed" }
+        ]
+      }
+    },
+    {
+      "id": "demo-forex",
+      "requestedAt": "2026-10-24T07:20:00.000Z",
+      "status": "APPROVED",
+      "isDemo": true,
+      "market": "FOREX MARKETS",
+      "marketId": "forex",
+      "accountType": "Forex trading account",
+      "fullName": "Sample Client - Zain Demo",
+      "email": "zain.demo@example.com",
+      "phone": "0300-000-0301",
+      "source": "Account opening page",
+      "message": "Sample request: please share the steps to finish broker registration.",
+      "details": {
+        "contact": {
+          "Full name": "Zain Demo (sample)",
+          "Email": "zain.demo@example.com",
+          "Phone": "0300-000-0301 (dummy)",
+          "Request": "Please share the steps to finish broker registration."
+        },
+        "documents": []
+      }
+    },
+    {
+      "id": "demo-pmex",
+      "requestedAt": "2026-10-23T13:05:00.000Z",
+      "status": "PENDING",
+      "isDemo": true,
+      "market": "PMEX (Pakistan Mercantile Exchange)",
+      "marketId": "pmex",
+      "accountType": "PMEX trading account",
+      "fullName": "Sample Client - Sana Demo",
+      "email": "sana.demo@example.com",
+      "phone": "0300-000-0401",
+      "source": "Account opening page",
+      "message": "Sample request: interested in commodity account opening assistance.",
+      "details": {
+        "contact": {
+          "Full name": "Sana Demo (sample)",
+          "Email": "sana.demo@example.com",
+          "Phone": "0300-000-0401 (dummy)",
+          "Request": "Interested in commodity account opening assistance."
+        },
+        "documents": []
+      }
+    }
+  ]
+}
