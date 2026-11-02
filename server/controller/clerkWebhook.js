@@ -4,8 +4,15 @@ import User from "../model/User.js";
 
 const clerkWebhooks = async (req, res) => {
     try {
-        // Create a Svix instance with clerk webhook secret.
-        const whook = new Webhook(process.env.CLERK_WEBHOOK_SECRET)
+        const signingSecret =
+            process.env.CLERK_WEBHOOK_SIGNING_SECRET ||
+            process.env.CLERK_WEBHOOK_SECRET;
+
+        if (!signingSecret) {
+            throw new Error("Missing Clerk webhook signing secret");
+        }
+
+        const whook = new Webhook(signingSecret);
 
         // Getting Headers
         const headers = {
@@ -14,30 +21,41 @@ const clerkWebhooks = async (req, res) => {
             "svix-signature": req.headers["svix-signature"],
         };
 
-        // Veryfying Headers
-        await whook.verify(JSON.stringify(req.body), headers)
+        if (!Buffer.isBuffer(req.body)) {
+            throw new Error("Webhook payload must be received as raw bytes");
+        }
 
-        // Getting Data from request body
-        const {data, type} = req.body
+        await whook.verify(req.body.toString("utf8"), headers);
 
-           const userData = {
-                    _id: data.id,
-                    email: data.email_addresses[0].email_address,
-                    username: data.first_name + " " + data.last_name,
-                    image: data.image_url
-                }
+        const { data, type } = JSON.parse(req.body.toString("utf8"));
+
+        const primaryEmail = data.email_addresses?.find(
+            (email) => email.id === data.primary_email_address_id
+        )?.email_address || data.email_addresses?.[0]?.email_address || "";
+
+        const userData = {
+            _id: data.id,
+            email: primaryEmail,
+            name: [data.first_name, data.last_name].filter(Boolean).join(" ").trim(),
+            image: data.image_url,
+        };
 
         // Swtch Cases for different Events
         switch (type) {
             case "user.created": {
-             
-                await User.create(userData);
+                await User.findByIdAndUpdate(data.id, userData, {
+                    upsert: true,
+                    new: true,
+                    runValidators: true,
+                });
                 break;
             }
 
             case "user.updated": {
-             
-                await User.findByIdAndUpdate(data.id, userData);
+                await User.findByIdAndUpdate(data.id, userData, {
+                    new: true,
+                    runValidators: true,
+                });
                 break;
             }
 
@@ -49,11 +67,11 @@ const clerkWebhooks = async (req, res) => {
             default:
                 break;
         }
-        res.json({ success: true, message: "Webhook Recieved" })
+        return res.status(200).json({ success: true, message: "Webhook received" });
 
     } catch (error) {
         console.log(error.message);
-        res.json({ success: false, message: error.message });
+        return res.status(400).json({ success: false, message: error.message });
     }
 }
 export default clerkWebhooks;
